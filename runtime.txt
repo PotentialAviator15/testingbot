@@ -1,1 +1,1 @@
-web: python3 main.py
+python-3.9.5
