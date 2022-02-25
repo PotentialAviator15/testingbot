@@ -1,1 +1,1 @@
-pycord==2.0.0b2
+pycord==2.0.0
